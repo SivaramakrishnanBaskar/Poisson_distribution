@@ -25,7 +25,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
 
 # Experiment :
-![Ex02reout](https://user-images.githubusercontent.com/119476322/230280943-be77c18e-3769-4439-b210-6928d7edfeba.jpeg)
+![out+2](https://user-images.githubusercontent.com/119476322/230284394-3a9d7823-3674-4eb4-80cf-e516d8627732.png)
 
 # Program :
 ```
